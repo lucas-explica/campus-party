@@ -1,0 +1,1 @@
+Permite consultar a base vetorial com a programação oficial da Campus Party Brasil 2025, incluindo palestras, workshops, hackathons, mentorias, horários, locais e nomes de palestrantes.
