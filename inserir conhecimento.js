@@ -33,7 +33,7 @@ const text = `
 23:00 às 23:55 - Boardgame: Root - Local: Neurodivertidos - Bancada 19 - Dentro da Arena - Atividades Orgânicas de comunidades
 `;
 
-const urlBase = "https://campustest.app.n8n.cloud/webhook-test/conhecimento?text=";
+const urlBase = "https://campustest.app.n8n.cloud/webhook/conhecimento?text=";
 
 fetch(urlBase + encodeURIComponent(text))
   .then(response => response.text())
